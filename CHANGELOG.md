@@ -1,3 +1,8 @@
+# [v1.1.0](https://github.com/fredrkl/reactive-net-demo/compare/v1.0.0...v1.1.0) (2025-11-25)
+
+## ✨ New Features
+- [`b28ab9c`](https://github.com/fredrkl/reactive-net-demo/commit/b28ab9c)  Console demo
+
 # v1.0.0 (2025-11-15)
 
 ## ✨ New Features

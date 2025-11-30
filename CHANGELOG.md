@@ -1,3 +1,9 @@
+# [v1.2.0](https://github.com/fredrkl/reactive-net-demo/compare/v1.1.0...v1.2.0) (2025-11-30)
+
+## ✨ New Features
+- [`027aba1`](https://github.com/fredrkl/reactive-net-demo/commit/027aba1)  Adding reactive extension 
+- [`0491772`](https://github.com/fredrkl/reactive-net-demo/commit/0491772)  Observable demo
+
 # [v1.1.0](https://github.com/fredrkl/reactive-net-demo/compare/v1.0.0...v1.1.0) (2025-11-25)
 
 ## ✨ New Features

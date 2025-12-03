@@ -6,3 +6,4 @@ to handle asynchronous data streams and events.
 ## Resources
 
 - [Hansel Minutes](https://www.youtube.com/watch?v=qW4rR5ON8gw)
+- [Reactive Extensions Series](https://www.youtube.com/watch?v=xmueNvMSRF4&list=PLA8ZIAm2I03ihVIzdkbIwca2Zucb31uh)
